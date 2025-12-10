@@ -1,5 +1,0 @@
-{
-  "name": "IB Biology Companion",
-  "description": "A comprehensive study companion for IB Biology students featuring syllabus tracking, deadline calendars, exercise logs, and resource access. All data is persisted locally in the browser.",
-  "requestFramePermissions": []
-}
